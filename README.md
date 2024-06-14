@@ -1,3 +1,4 @@
 # CP3407-Projects
 
-1, Student Name-Jianhong Li: Doing all of this project
+Team Member-Jianhong Li: Doing all of this project
+The purpose of this project is to make users more aware of what they buy and avoid waste.
